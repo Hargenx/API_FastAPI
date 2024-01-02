@@ -7,13 +7,13 @@ Este projeto utiliza o FastAPI para criar endpoints que gerenciam pedidos e gera
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/Hargenx/fastapi-openai.git
+    git clone https://github.com/Hargenx/API_FastAPI.git
     ```
 
 2. **Navegue até o diretório do projeto:**
 
     ```bash
-    cd fastapi-openai
+    cd API_FastAPI
     ```
 
 3. **Instale as dependências usando pip:**
